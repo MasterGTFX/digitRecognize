@@ -5,17 +5,10 @@ Its using KNN (K nearest neighbors) classifier and MNIST dataset, including hand
 ![shop example](example.png?raw=true "Example")
 
 ## Technologies
-- Fetching products, categories from database
-- Displaying products, categories, sort products by categories
-- User register/login using django auth.
-- Buying products, adding balance to profile.
-
-## Technologies
 - Python 3
 
 ## Getting Started
-Run 'python manage.py runserver'. Make sure u have PostgreSQL installed (or change DB driver).
-
+Run 'python main.py'. Make sure u have MNIST dataset in data directory (and used IDXtoCSVConverter on it).
 ## Author
 * **Dominik Baran** - [MasterGTFX](https://github.com/MasterGTFX)
 
