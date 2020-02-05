@@ -4,6 +4,10 @@ Its using KNN (K nearest neighbors) classifier and MNIST dataset, including hand
 # Example
 ![shop example](example.png?raw=true "Example")
 
+# TODO
+- Refactoring
+- Add other classifiers / neural network
+
 ## Technologies
 - Python 3
 
